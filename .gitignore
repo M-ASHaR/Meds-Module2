@@ -1,0 +1,13 @@
+# Compiled simulation output
+output
+build/
+work
+# Waveform dump files
+*.vcd
+
+# Optional simulator-generated files
+*.vvp
+*.out
+*.mpf
+*.mti
+*.wlf
