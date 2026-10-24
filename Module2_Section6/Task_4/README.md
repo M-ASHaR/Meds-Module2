@@ -4,41 +4,7 @@
 
 The given Boolean function is:
 
-\[
-f=(b+c+d)(a'+b+c)(a'+d)
-\]
-
-Using De Morgan's theorem:
-
-\[
-f=\overline{\overline{(b+c+d)}+\overline{(a'+b+c)}+\overline{(a'+d)}}
-\]
-
-The complement of \(a\) is generated using a NOR gate:
-
-\[
-na=\overline{a+a}=a'
-\]
-
-The intermediate signals are:
-
-\[
-n1=\overline{b+c+d}
-\]
-
-\[
-n2=\overline{na+b+c}
-\]
-
-\[
-n3=\overline{na+d}
-\]
-
-The final output is:
-
-\[
-f=\overline{n1+n2+n3}
-\]
+![Derivation](figures/nor_only_implementation.jpeg)
 
 ## 2. Circuit Diagram
 
@@ -48,7 +14,7 @@ f=\overline{n1+n2+n3}
 
 ![NOR-Only Terminal Output](figures/terminal_output.png)
 
-![Waveform Output](f    )
+![Waveform Output](figures/task4_waveform.png)
 
 ## 4. Explanation
 
