@@ -2,7 +2,11 @@
 
 ## 1. Schematic Diagram
 
+### Part A: 4-bit Right Shifter
+![Part A Schematic Diagram](figures/Task9parta.png)
 
+### Part B: 4-bit Barrel Shifter
+![Part B Schematic Diagram](figures/Task9partb.png)
 
 ## 2. Terminal Output
 

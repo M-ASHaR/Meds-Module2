@@ -30,7 +30,13 @@
 
 ![Majority Function Waveform](figures/Task8_majority_waveform.png)
 
-## 4. Explanation
+## 4. TruthTable
+
+The truth table for this Boolean function `F(a,b,c) = Σm(1,2,3,6,7)`
+
+![TruthTable](figures/truthtable.png)
+
+## 5. Explanation
 
 ### Part A: Boolean Function Using a 4:1 MUX
 
@@ -48,7 +54,7 @@ A reusable 2:1 MUX module is implemented using `always_comb` and a `case` statem
 
 Both implementations passed all 8 test cases. The simulations confirm that the 4:1 MUX correctly realizes the specified Boolean function and that the cascaded 2:1 MUX network correctly implements the 3-bit majority function.
 
-## 5. Compile Workflow
+## 6. Compile Workflow
 
 ### Part A: 4:1 MUX
 
