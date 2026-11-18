@@ -4,11 +4,11 @@
 
 ### Part A: 4:1 MUX Implementation
 
-![4:1 MUX Schematic](figures/task8_mux4x1_schematic.png)
+![4:1 MUX Schematic](figures/Task8part1.png)
 
 ### Part B: 3-bit Majority Function Using Cascaded 2:1 MUXes
 
-![Majority Function Schematic](figures/task8_majority_schematic.png)
+![Majority Function Schematic](figures/Task8partb.png)
 
 ## 2. Terminal Output
 
