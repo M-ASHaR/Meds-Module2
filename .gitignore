@@ -4,6 +4,7 @@ build/
 work
 # Waveform dump files
 *.vcd
+*.txt
 
 # Optional simulator-generated files
 *.vvp
